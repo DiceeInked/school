@@ -21,7 +21,7 @@
 
 | Lesson | Topic | Status | Latest result |
 |---|---|---|---|
-| 01 | Your first webpage | In progress | |
+| 01 | Your first webpage | Completed | 3/3 mini-quiz |
 
 ## Learning preferences
 
