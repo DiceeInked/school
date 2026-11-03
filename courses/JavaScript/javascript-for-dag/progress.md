@@ -1,5 +1,7 @@
 # JavaScript for DAG: Progress
 
+**Course status:** Paused
+
 ## Course plan
 
 1. JavaScript foundations
@@ -31,3 +33,5 @@
 ## Recordkeeping
 
 When a quiz is completed, add the attempt date, score, and topics to review to that lesson's results.md and update this tracker.
+
+The course is paused while HTML and CSS are being learned. Resume at Lesson 2: Conditions and decisions.
