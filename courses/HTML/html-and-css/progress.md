@@ -5,17 +5,17 @@
 ## Course plan
 
 1. Your first webpage
-2. HTML elements and attributes
-3. Headings, paragraphs, links, and images
-4. Lists, buttons, and page structure
-5. Forms and user input
-6. Semantic HTML and accessibility basics
-7. CSS foundations and selectors
-8. Colors, fonts, and text styling
-9. The box model, spacing, and borders
-10. Layout with Flexbox and Grid
-11. Responsive design
-12. Build a small multi-page website
+2. HTML elements and page content
+3. Links, images, and lists
+4. Your first CSS stylesheet
+5. CSS selectors, colors, and fonts
+6. The box model: spacing, borders, and sizing
+7. Layout with Flexbox
+8. Layout with Grid
+9. Buttons, forms, and simple page interactions
+10. Responsive design for phones and computers
+11. Organizing a multi-page website
+12. Final project: build a small website
 
 ## Progress tracker
 
